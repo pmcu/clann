@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
-    <link href = "{{site.baseurl}}/clann/assets/css/styles.css" rel="stylesheet">
+"{{'assets/css/styles.css'| relative_url}}">
+    <link href = "{{'assets/css/styles.css'| relative_url}}">
   </head>
   <body>
    {% include navigation.html  %}
