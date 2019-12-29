@@ -17,7 +17,7 @@ layout: leag
     <h3>Leathanaigh</h3>
     {% for rud in site.pages %}
     <li>
-	 <a href="{{site.baseurl}}{{rud.url}}" >{{ rud.title }}</a>
+	 <a href="{{rud.url | relative_url}}" >{{ rud.title }}</a>
     </li>
     {% endfor %}
   </body>
