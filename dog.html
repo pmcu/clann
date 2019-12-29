@@ -17,12 +17,13 @@ layout: leag
     <h3>Leathanaigh</h3>
     {% for rud in site.pages %}
     {% if rud.type == 'alt' %}
-
+    <ul>
     <li>
 	 <a href="{{rud.url | relative_url}}" >{{ rud.title }}</a>
     </li>
 
     {% endif %}
     {% endfor %}
+    </ul>
   </body>
 </html>
