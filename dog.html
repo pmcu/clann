@@ -14,5 +14,11 @@ layout: leag
     <p>Stuif faoi na deamhain </p>
 
     <hr><br>
+    <h3>Leathanaigh</h3>
+    {% for rud in site.pages %}
+    <li>
+	 <a href="{{site.baseurl}}{{rud.url}}" >{{ rud.title }}</a>
+    </li>
+    {% endfor %}
   </body>
 </html>
