@@ -1,5 +1,5 @@
 ---
-layout: leag
+layout: job
 type: alt
 title: Willy
 cat: clann
