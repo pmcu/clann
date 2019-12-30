@@ -6,7 +6,7 @@ cat: clann
 ---
 [Other Occupations](../bdino.html)
 
-![pic](../img/gabhar-1.jpg)
+![pic](../img/christmas_party.jpg)
 
 <h1>Breda</h1>
 
