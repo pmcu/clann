@@ -2,12 +2,12 @@
 layout: default
 ---
 
-{% for dino in site.data.dinos %}
-<h2>{{ dino.name }}</h2>
+{% for jab in site.data.wjobs %}
+<h2>{{ jab.name }}</h2>
 <dl>
-	<dt>Diet</dt>
-	<dd>{{ dino.diet }}</dd>
-	<dt>Size</dt>
-	<dd>{{ dino.size }}</dd>
+	<dt>Duties</dt>
+	<dd>{{ jab.duties }}</dd>
+	<dt>Pay</dt>
+	<dd>{{ jab.dpay }}</dd>
 </dl>
 {% endfor %}
