@@ -6,7 +6,7 @@ cat: clann
 ---
 [ scéal ](/willy/uilliam.html)
 
-![pic](../../img/da.jpg)
+![pic](../img/da.jpg)
 
 
 <p>Athair</p>

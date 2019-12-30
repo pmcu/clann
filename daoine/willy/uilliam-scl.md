@@ -1,10 +1,10 @@
 ---
 layout: leag
 type: alt
-title: Willy
+title: "Scéal Uilliam"
 cat: clann
 ---
-![pic](../img/da.jpg)
+![pic](../../img/da.jpg)
 
 ## Scéal
 
