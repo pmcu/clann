@@ -6,5 +6,6 @@ cat: clann
 ---
 ![pic](../img/da.jpg)
 
+[Other Occupations](../dino.html)
 
 <p>Athair</p>
