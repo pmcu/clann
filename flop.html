@@ -12,6 +12,6 @@ layout: default
   <body>
     <h1>{{ page.title}}</h1>
     <br><br>
-    <h3> {{site.data.dinos[0].name }} </h3>
+    <h3> {{site.data.dinos[0].name | markdownify }} </h3>
   </body>
 </html>
