@@ -8,12 +8,15 @@
   <body>
    {% include navigation.html  %}
    <hr><br>
-   <br>
   <h1>{{ page.title}}</h1>
    <h3>Occupations</h3>
    <p><strong>Job: </strong>{{site.data.wjobs[0].jname}}</p>
    <p><strong>Duties: </strong>{{site.data.wjobs[0].duties}}</p>
    <p><strong>Pay: </strong>{{site.data.wjobs[0].dpay}}</p>
+   <br>
+   <p><strong>Job: </strong>{{site.data.wjobs[1].jname}}</p>
+   <p><strong>Duties: </strong>{{site.data.wjobs[1].duties}}</p>
+   <p><strong>Pay: </strong>{{site.data.wjobs[1].dpay}}</p>
 
     {{ content }}
     <br>
