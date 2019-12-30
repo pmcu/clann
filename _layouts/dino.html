@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{{% for dino in site.data.dinos %}}
+<h2>{{ dino.name }}</h2>
+<dl>
+	<dt>Diet</dt>
+	<dd>{{ dino.diet }}</dd>
+	<dt>Diet</dt>
+	<dd>{{ dino.size }}</dd>
+</dl>
+{{% endfor %}}
