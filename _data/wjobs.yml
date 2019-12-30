@@ -1,0 +1,17 @@
+- jname: Gardener
+  duties: "planting, cutting, tidying"
+  dpay: £7
+
+- jname: "Fowl Plucker"
+  duties: plucking
+  dpay: £12
+
+
+- jname: Painter
+  duties: painting
+  dpay: £10
+
+
+- jname: Cleaner
+  duties: cleaning
+  dpay: £6
