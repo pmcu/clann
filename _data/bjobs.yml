@@ -1,0 +1,11 @@
+- jname: "Bus Clippy"
+  duties: "collecting, clipping, studying tickets"
+  dpay: £8
+
+- jname: "Asylum Assistant"
+  duties: "feeding, cleaning, restraining inmates"
+  dpay: "£2, keep"
+
+- jname: Cleaner
+  duties: cleaning
+  dpay: £6
