@@ -2,7 +2,6 @@
 layout: leag
 type: alt
 title: "Scéal Uilliam"
-cat: clann
 ---
 ![pic](../../img/da.jpg)
 
