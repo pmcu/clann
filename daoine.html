@@ -13,7 +13,7 @@ layout: leag-2
     <h1>{{ page.title}}</h1>
     <h3>Leathanach an duine</h3>
     {% for rud in site.pages  %}
-    {% if rud.cat == 'clann' limit:2 %}
+    {% if rud.cat == 'clann'  %}
     <ul>
     <li>
 	 <a href="{{rud.url | relative_url}}" >{{ rud.title }}</a>
