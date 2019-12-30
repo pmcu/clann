@@ -4,7 +4,7 @@ type: alt
 title: Willy
 cat: clann
 ---
-[ scéal ](/willy/uilliam.html)
+[ scéal ](uilliam.html)
 
 ![pic](../img/da.jpg)
 
