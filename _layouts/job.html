@@ -1,0 +1,26 @@
+---
+layout: leag-2
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel = "stylesheet" href = "{{'assets/css/styles.css'| relative_url}}">
+  </head>
+  <body>
+   <h3>Occupations</h3>
+   <p><strong>Job: </strong>{{site.data.wjobs[0].jname}}</p>
+   <p><strong>Duties: </strong>{{site.data.wjobs[0].duties}}</p>
+   <p><strong>Pay: </strong>{{site.data.wjobs[0].dpay}}</p>
+   {% include navigation.html  %}
+   <hr><br>
+   {% include gabhar.html  %}
+   <br>
+<br><hr><br>
+   <br>
+    {{ content }}
+    <br>
+   {% include navigation.html  %}
+  </body>
+</html>
