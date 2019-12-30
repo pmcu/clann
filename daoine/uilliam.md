@@ -4,7 +4,7 @@ type: alt
 title: Willy
 cat: clann
 ---
-[Other Occupations](../dino.html)
+[ scéal ](willy/uilliam.html)
 
 ![pic](../img/da.jpg)
 
