@@ -4,9 +4,8 @@ type: alt
 title: Breda
 cat: clann
 ---
-<h1>Breda</h1>
 
-## Scéal
+## Bríd - a Scéal
 
 I mBaile Thiobraid Árann, a tháinig Bríd ar
 an tsaol, ar shráid darbh ainm Cosán na nGabhar uirthi.

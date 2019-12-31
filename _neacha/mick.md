@@ -6,6 +6,6 @@ title: Mick
 cat: clann
 ---
 
-<h1>Mick</h1>
+## Mick - a scéal
 
 <p>Athair máthara</p>

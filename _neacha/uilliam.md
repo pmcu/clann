@@ -5,7 +5,7 @@ title: Willy
 cat: clann
 ---
 
-## Scéal
+## Uilliam - a scéal
 
 Tháinig Uilliam ar an tsaol i Sráid na hEaglaise,
 sa bhliain 1930. Cuireadh ar scoil chuig na Bráithre
