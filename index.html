@@ -11,9 +11,11 @@ layout: default
   <body>
     <h1>{{ page.title}}</h1>
     <hr>
+    <h4>Ábhar an tSuímh</h4>
+    <br>
     {% for item in site.data.baile %}
-    <h4>Ábhar</h4>
-    <strong>{{ item.baile }}</strong>
+    <strong>{{ item.ceann }}</strong>
+    <strong>{{ item.fceann }}</strong>
     <p>{{ item.lucht | markdownify }}</p>
     {% endfor %}
   </body>
