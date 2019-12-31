@@ -18,7 +18,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
-
+collections:
+    daoine:
+       output: true
 
 
 
