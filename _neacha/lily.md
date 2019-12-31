@@ -4,7 +4,6 @@ type: alt
 title: Lily
 cat: clann
 ---
-![pic](../img/millwall.png)
 
 <h1>Lily</h1>
 
