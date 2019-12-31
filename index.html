@@ -14,7 +14,7 @@ layout: default
     <h4>Ábhar an tSuímh</h4>
     <br>
     {% for item in site.data.baile %}
-    <strong>{{ item.ceann }}</strong><br><br>
+    <h3>{{ item.ceann }}</h3><br><br>
     <strong>{{ item.fceann | markdownify }}</strong>
     <p>{{ item.lucht | markdownify }}</p>
     {% endfor %}
