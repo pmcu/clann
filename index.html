@@ -14,7 +14,7 @@ layout: default
     {% for item in site.data.baile %}
     <h4>Ábhar</h4>
     <strong>{{ item.baile }}</strong>
-    <p>{{ item.lucht }}</p>
+    <p>{{ item.lucht | markdownify }}</p>
     {% endfor %}
   </body>
 </html>
