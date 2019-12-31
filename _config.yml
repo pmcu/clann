@@ -19,7 +19,7 @@ plugins:
   - jekyll-feed
 
 collections:
-    daoine:
+    neacha:
        output: true
 
 
