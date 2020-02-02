@@ -4,16 +4,26 @@
       "name" : "Teach an Mhargaidh",
       "suíomh" : "Lár an Bhaile",
       "bliain" : 1967,
-      "photo" : "https://pmcu.github.io/clann/img/markethouse.png",
+      "photo" : "https://pmcu.github.io/clann/img/markethouseBike.jpg",
       "para1": "Seo an chéad alt beidh sé maith. Cuid mhór stuif le cur ann",
       "para2": "Seo an dara ceann.",
       "para3": "Seo an tríú ceann."
     },
     {
-      "name" : "An Leabharlann",
-      "suíomh" : "Lár an bhaile",
+      "name" : "Sráid an Droichid",
+      "suíomh" : "Lár an Bhaile",
+      "bliain" : 1981,
+      "photo" : "https://pmcu.github.io/clann/img/bridgeStreet.jpg",
+      "para1": "Paragraf 1. Beidh sé an-mhaith",
+      "para2": "Stuif eile anseo, agus cuid mhór téacs ann, agus é an-mhaith."
+    },
+
+
+    {
+      "name" : "Sráid Theach an Chruinnithe",
+      "suíomh" : "Barr an bhaile",
       "bliain" : 1968,
-      "photo" : "https://pmcu.github.io/clann/img/markethouseBike.jpg",
+      "photo" : "https://pmcu.github.io/clann/img/meetinSt.jpg",
       "para1": "Paragraf 1. Beidh sé an-mhaith",
       "para2": "Stuif eile anseo, agus cuid mhór téacs ann, agus é an-mhaith."
     },
@@ -24,15 +34,8 @@
       "photo" : "https://pmcu.github.io/clann/img/clochar.jpg",
       "para1": "Paragraf 1. Beidh sé an-mhaith",
       "para2": "Stuif eile anseo, agus cuid mhór téacs ann, agus é an-mhaith."
-    },
-    {
-      "name" : "Sráid an Droichid",
-      "suíomh" : "Lár an Bhaile",
-      "bliain" : 1981,
-      "photo" : "https://pmcu.github.io/clann/img/bridgeStreet.jpg",
-      "para1": "Paragraf 1. Beidh sé an-mhaith",
-      "para2": "Stuif eile anseo, agus cuid mhór téacs ann, agus é an-mhaith."
     }
+
 
 
   ]

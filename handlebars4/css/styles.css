@@ -6,7 +6,11 @@ html, body {
 body {
   background-color: #DDD;
 }
+.main{
+text-align: center;
 
+
+}
 img {
   max-width: 100%;
 }
