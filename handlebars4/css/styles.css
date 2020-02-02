@@ -73,14 +73,14 @@ p {
   overflow: hidden;
 }
 
-.pet h2 {
+.pet h2,h3 {
   font-weight: normal;
   margin: 0;
-  font-size: 2.5rem;
+  font-size: 2.00rem;
 }
 
-.pet h2 .species {
-  font-size: 1.45rem;
+.pet h2,h3 .suíomh {
+  font-size: 1.20rem;
   color: #999;
 }
 

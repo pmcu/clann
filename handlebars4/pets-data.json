@@ -1,42 +1,43 @@
 {
   "pets": [
     {
-      "name" : "Typhus",
-      "species" : "Cat",
+      "name" : "Teach an Mhargaidh",
+      "suíomh" : "Lár an Bhaile",
       "favFoods" : ["sardines", "porridge", "<strong>any</strong> beef"],
-      "birthYear" : 2020,
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
-      "Note": "Goideadh an cat seo ar bhean ar imeall an bhaile mhóir.",
+      "bliain" : 1967,
+      "photo" : "https://pmcu.github.io/clann/img/markethouse.png",
+
       "para1": "Seo an chéad alt beidh sé maith. Cuid mhór stuif le cur ann",
       "para2": "Seo an dara ceann.",
       "para3": "Seo an tríú ceann."
     },
     {
-      "name" : "Gowler",
-      "species" : "Dog",
-      "birthYear" : 2008,
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
-      "Note" : "Níl seilg ar bith aige, ach is maith leis a bheith ag ithe.",
+      "name" : "An Leabharlann",
+      "suíomh" : "Lár an bhaile",
+      "bliain" : 1968,
+      "photo" : "https://pmcu.github.io/clann/img/markethouseBike.jpg",
+
       "para1": "Paragraf 1. Beidh sé an-mhaith",
       "para2": "Stuif eile anseo, agus cuid mhór téacs ann, agus é an-mhaith."
     },
     {
-      "name" : "Sissy",
-      "species" : "Cat",
-      "favFoods" : ["tuna", "cod", "spuds"],
-      "birthYear" : 2012,
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
-      "Note": "Bhí Sissy i bhfolach oíche amháin i halla biongó. Níor thuig sí an cluiche ach fuair sí airgead.",
+      "name" : "An Clochar",
+      "suíomh" : "Cat",
+
+      "bliain" : 1960,
+      "photo" : "https://pmcu.github.io/clann/img/clochar.jpg",
+
       "para1": "Paragraf 1. Beidh sé an-mhaith",
       "para2": "Stuif eile anseo, agus cuid mhór téacs ann, agus é an-mhaith."
     },
     {
-      "name" : "Tadhg",
-      "species" : "Dog",
-      "favFoods" : ["beef", "saugages", "champ"],
-      "birthYear" : 1916,
-      "photo" : "https://pmcu.github.io/cu_gram/assets/img/tadhg.jpg",
-      "Note":"Tá Tadhg an-mhaith ag cúrsáí gramadaí."
+      "name" : "Sráid an Droichid",
+      "suíomh" : "Lár an Bhaile",
+
+      "bliain" : 1981,
+      "photo" : "https://pmcu.github.io/clann/img/bridgeStreet.jpg",
+      "para1": "Paragraf 1. Beidh sé an-mhaith",
+      "para2": "Stuif eile anseo, agus cuid mhór téacs ann, agus é an-mhaith."
     }
 
 

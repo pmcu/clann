@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="page-wrap"></div>
-<h1>Handlebars Tutorial</h1>
+<h1>Bunáiteanna</h1>
 <div id = "pets-container">
 </div>
 <script id= "petsTemplate" type="text/x-handlebars-template">
@@ -17,17 +17,9 @@
 <div class = "photo-column"></div>
 <img src="{{photo}}">
 <div class="info-column">
-<h2>{{name}} <splan class = "species">({{species}})</span></h2>
-	<p>Age: {{calculateAge birthYear}}</p>
-	{{#if favFoods}}
-	<h4 class = "headline-bar">Favorite Foods</h4>
-	<ul class = "favorite-foods">
-{{#each favFoods}}
-<li>{{{this}}}</li>
+<h3>{{name}} <splan class = "suíomh">({{suíomh}})</span></h3>
+<p class="info-column"><strong>Bliain: </strong>{{bliain}}</p>
 
-{{/each}}
-{{/if}}
-<p class="info-column"><strong>Nóta: </strong>{{Note}}</p>
 <p class="info-column">{{para1}}</p>
 <p class="info-column">{{para2}}</p>
 <p class="info-column">{{para3}}</p>
