@@ -1,0 +1,10 @@
+# Black Out
+
+Fuair mé an scéal seo ó m'uncail Coote. Ba bhearbóir é, rud a d'fhág tuigbheáil mhaith aige ar
+nádúr an duine.
+
+Le linn an dara Cogadh domhanda, bhí sé de nós ag píolótaí dalba theacht san oíche a ligeán buamaí
+anuas ar chuid de na bailte móra. Sa dóigh nach n-aithneodh na píolótaí go raibh baile futhu,shocair
+na péas nach mbeadh cead ag muintir na mbailte solas ar bith a bheith ar lasadh sna tithe i ndiaidh dhul faoi
+don ghréin. Black out an t-ainm a chum siad don dorchadas seo.
+
